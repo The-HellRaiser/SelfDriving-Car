@@ -1,2 +1,7 @@
 The Repo contains code, papers and output of the of self driving car simulation using PPO,DDPG
-algorithms
+algorithms.
+
+To run the code jsut folow the instructions in thenotebook.
+For looking at the outputs, we have uplaoded our output videos and scores acheived on it
+
+This capstone project was done for  CS5368- Rienforcement Learning
